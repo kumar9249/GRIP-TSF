@@ -1,2 +1,2 @@
 # GRIP-TSF
-Task Solutions of Graduate Rotational Internship Program at The Sparks Foundation for Jan'21 batch.
+These are the task solutions of GRIP (Graduate Rotational Internship Program) at The Sparks Foundation under Data Science & Business Analytics domain for Jan'21 batch.
